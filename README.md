@@ -1,2 +1,2 @@
 # odin-recipes
-The odin recepes project is a simple ... By completting this project I will demonstrate my understanding of basic HTML.
+The odin recipes project is a simple website witha few pages. By completting this project I will demonstrate my understanding of basic HTML as well as a my understanding of the basics of git.
